@@ -16,3 +16,5 @@
 #
 # to build the latest (i.e. highest version number) release(s).
 #
+
+restic latest
