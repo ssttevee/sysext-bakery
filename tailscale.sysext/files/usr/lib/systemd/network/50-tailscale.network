@@ -1,5 +1,0 @@
-[Match]
-Kind=tun
-Name=tailscale*
-[Link]
-Unmanaged=yes
