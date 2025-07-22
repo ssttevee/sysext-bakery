@@ -17,4 +17,5 @@
 # to build the latest (i.e. highest version number) release(s).
 #
 
+node_exporter latest
 restic latest
